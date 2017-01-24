@@ -39,3 +39,10 @@ class FavArtists(object):
                 except IndexError:
                     continue
         self.new_music = new_music
+        
+class MySpotify(object):
+    """ Information about a user's Spotify account:
+    
+    Attributes:
+        TBD
+    """
